@@ -1,5 +1,5 @@
 
-# Tutorial Instalasi Laragon & Laravel + Direktori Upload Gambar
+# Tutorial Instalasi Laravel menggunakan Laragon di windows
 
 ## 1. Instalasi Laragon
 
