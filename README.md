@@ -1,3 +1,3 @@
 # Tugas
-git clone https://github.com/username/nama-repo.git
+https://github.com/rizkyakbar555/nama-repo.git
 
