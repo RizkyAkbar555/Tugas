@@ -27,11 +27,11 @@
    public/uploads
 
 ![laragon start](image/5.jpg)
-http://myapp.test/uploads/nama_file.jpg
 
-http://localhost/myapp/public
+![laragon start](image/6.jpg)
 
+Akses via browser: http://127.0.0.1:8000
+
+![laragon start](image/7.jpg)
 
 ---
-
-Kalau kamu mau saya tambahkan cara upload lewat form HTML atau Vue/React juga, tinggal bilang aja.
