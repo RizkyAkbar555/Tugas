@@ -17,9 +17,7 @@
 
 1. Buka terminal Laragon (`Menu > Terminal`).
 2. Jalankan perintah berikut untuk membuat project Laravel baru:
-
-   ```bash
-   composer create-project --prefer-dist laravel/laravel nama-project
+"composer global require laravel/installer"
 
 ![laragon start](image/5.jpg)
 
