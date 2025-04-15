@@ -21,11 +21,6 @@
    ```bash
    composer create-project --prefer-dist laravel/laravel nama-project
 
-
-   http://myapp.test
-
-   public/uploads
-
 ![laragon start](image/5.jpg)
 
 ![laragon start](image/6.jpg)
@@ -33,5 +28,12 @@
 Akses via browser: http://127.0.0.1:8000
 
 ![laragon start](image/7.jpg)
+
+## 3. cara cek PHP & Composer
+
+open terminal: menu > tools > terminal
+
+lalu ketik: php -v
+            composer -v
 
 ---
