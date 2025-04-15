@@ -26,7 +26,7 @@
 
    public/uploads
 
-![laragon start](umage/5.jpg)
+![laragon start](image/5.jpg)
 http://myapp.test/uploads/nama_file.jpg
 
 http://localhost/myapp/public
