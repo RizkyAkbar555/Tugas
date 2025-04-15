@@ -9,10 +9,9 @@
 2. Jalankan installer dan ikuti petunjuk instalasi.
 3. Setelah terinstal, buka Laragon dan klik `Start All`.
 4. Pastikan Apache/Nginx dan MySQL berjalan.
+![laragon start](image/3.jpg)
 
 ## 2. Instalasi Laravel
-
-![laragon start](image/3.jpg)
 
 ### Opsi 1: Menggunakan Composer (direkomendasikan)
 
