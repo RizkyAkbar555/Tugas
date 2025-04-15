@@ -3,7 +3,7 @@
 
 ## 1. Instalasi Laragon
 
-![Tampilan laragon](image/3.jpg)
+![Tampilan laragon](image/1.jpg)
 
 1. Download Laragon dari situs resminya: [https://laragon.org](https://laragon.org)
 2. Jalankan installer dan ikuti petunjuk instalasi.
@@ -12,7 +12,7 @@
 
 ## 2. Instalasi Laravel
 
-![laragon start](img/1.jpg)
+![laragon start](image/3.jpg)
 
 ### Opsi 1: Menggunakan Composer (direkomendasikan)
 
